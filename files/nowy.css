@@ -26,7 +26,6 @@ a:active{
     color: green;
 }
 
-}
 
 .container{
 width: 80%;
@@ -132,8 +131,7 @@ margin: auto;
     padding:10px;
     box-sizing:border-box;
     padding:15px;
-    box-sizing:border-box;
-    margin:20px 100px;
+
 }
 
 #main-block{
